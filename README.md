@@ -6,4 +6,7 @@ if you want to use Openwhisk cli to create or use some Serverless ，FaaS（func
 
 ## HOW Openwhisk work
 if you want to know about Openwhisk and how it works in a depth, please refer to <a href="https://github.com/TabGuigui/Openwhisk/blob/main/how-openwhisk-work.md" target="_blank">how-openwhisk-work</a>
- 
+
+## easy action
+if you want to create and invoke a easy action with python, please refer to <a href = "https://github.com/TabGuigui/Openwhisk/blob/main/easyaction.md" target="_blank"> easyaction.md</a>
+
